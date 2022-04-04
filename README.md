@@ -12,3 +12,5 @@ https://lindseywhite053.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Lindsey White
+
+# Run Buddy Inc.
